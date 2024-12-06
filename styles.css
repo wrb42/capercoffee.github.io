@@ -96,7 +96,7 @@ body {
 }
 
 .menu-item {
-    max-width: 280px;
+    width: 190px;
     text-align: center;
     padding: 1rem;
     background-color: #ffffff;
